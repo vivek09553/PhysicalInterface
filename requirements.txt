@@ -1,0 +1,17 @@
+
+Materials Required :
+1. Arduino Uno
+2. BreadBoard
+3. wires
+4. Fire Sensor
+5. Rain sensor
+
+Software (Download Link):
+
+Processing IDE
+https://processing.org/download/ Arduino IDE
+https://www.arduino.cc/en/Main/Software
+
+Language Required :
+Arduino : C 
+Processing : Java/Python
